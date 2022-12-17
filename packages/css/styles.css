@@ -554,7 +554,11 @@ img {
 }
 
 .skills__google {
-  width: 70%;
+  width: 100%;
+}
+
+.skills__gsuite {
+  width: 90%;
 }
 
 .skills__counter {
