@@ -418,6 +418,7 @@ img {
 
 .about__description {
   text-align: center;
+  justify-content: center;
   margin-bottom: var(--mb-2-5);
 }
 
@@ -932,7 +933,7 @@ img {
 }
 
 .footer__container {
-  row-gap: 3.5rem;
+  row-gap: 7rem;
 }
 
 .footer__bg {
@@ -1157,7 +1158,7 @@ img {
     .header,
     .main,
     .footer__container {
-      padding: 0 1rem;
+      padding: 0 2rem;
     }
 
     .nav {
